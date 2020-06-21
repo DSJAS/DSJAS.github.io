@@ -16,10 +16,10 @@ All of our tools are available free of charge and licensed under either a free s
 
 > Right now, the majority of our projects are either in beta or not yet released. This is mostly due to the fact that the project only started recently and is still under heavy development work
 
-| Project name | Description/purpose | Project link | Other links | Development status |
-| ------------ | ------------------- | ------------ | ----------- | ------------------ |
-| DSJAS | The main piece of software for the project. Mimics a fake bank site on your local machine, with customization and extension support | <https://github.com/DSJAS/DSJAS> | [The official project YouTube channel](https://www.youtube.com/channel/UCcObtewegg_HMm_020_ioRQ) | ⚠ Pre-release, in active development |
-| DSJAS SDK | A toolkit for developers looking to create themes, modules or extensions for DSJAS | <https://DSJAS/DSJAS> | *N/A* | ❌ Planned, development incoming |
+| Project name | Description/purpose | Project link | Other links | Development status |      |
+| ------------ | ------------------- | ------------ | ----------- | ------------------ | ---- |
+| DSJAS | The main piece of software for the project. Mimics a fake bank site on your local machine, with customization and extension support | <https://github.com/DSJAS/DSJAS> | [The official project YouTube channel](https://www.youtube.com/channel/UCcObtewegg_HMm_020_ioRQ) | ⚠ Pre-release, in active development | [More info](https://dsjas.github.io/projects/DSJAS) |
+| DSJAS SDK | A toolkit for developers looking to create themes, modules or extensions for DSJAS | <https://DSJAS/DSJAS> | *N/A* | ❌ Planned, development incoming | *No project page available* |
 
 ## Getting started
 
